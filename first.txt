@@ -3,5 +3,5 @@ Gitの練習をしていきます
 ・git add
 ・git commint
 ・git remove
-git status
-この行を追加しました
+・git status
+・git diff
