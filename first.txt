@@ -5,3 +5,5 @@ Gitの練習をしていきます
 ・git remove
 ・git status
 ・git diff
+
+tig(コマンド)
